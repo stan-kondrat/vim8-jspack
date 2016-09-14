@@ -4,3 +4,6 @@
 [submodule "start/syntastic"]
 	path = start/syntastic
 	url = git@github.com:scrooloose/syntastic.git
+[submodule "start/gitgutter"]
+	path = start/gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
