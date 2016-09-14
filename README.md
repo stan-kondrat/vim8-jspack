@@ -9,6 +9,8 @@ A minimal set of packages to start developing javascript using vim.
 
 ## Installation
 
+No need any package manger such as *pathogen*, *vundle* and etc… Just git!
+
 ```shell
 # install vim8-jspack
 mkdir -p  ~/.vim/pack
