@@ -1,3 +1,6 @@
 [submodule "start/YouCompleteMe"]
 	path = start/YouCompleteMe
 	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = git@github.com:scrooloose/syntastic.git
