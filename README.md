@@ -1,8 +1,13 @@
 # Vim 8 Javascript development package
 
 ```
+# install vim8-jspack
 mkdir -p  ~/.vim/pack
 git clone git@github.com:stan-kondrat/vim8-jspack.git ~/.vim/pack/jspack
+
+# configure ternjs autocomplete 
+cd ~/.vim/pack/jspack/start/YouCompleteMe
+./install.py --tern-completer
 ```
 
 ## License
