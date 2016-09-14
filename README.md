@@ -1,4 +1,13 @@
-# Vim 8 Javascript development package
+# Vim 8 package for Javascript development 
+
+A minimal set of packages to start developing javascript using vim.
+
+* Linter **eslint** [syntastic](https://github.com/scrooloose/syntastic)
+* Autocomplete **ternjs** [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+* Git diff tool [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+
+
+## Installation
 
 ```shell
 # install vim8-jspack
